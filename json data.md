@@ -173,20 +173,3 @@ python process_json.py
 
 ---
 
-## 📜 License
-This project is free to use for learning and academic purposes.
-
----
-
-# 🎉 Ready for Upload!
-
-You can directly copy this full README.md into your GitHub repository.
-
-If you want, I can also:
-
-✅ Generate a ZIP with README + code + JSON  
-✅ Make a better project title  
-✅ Add badges for GitHub  
-✅ Create a screenshot image for your table  
-
-Just tell me!
